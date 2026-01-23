@@ -9,3 +9,6 @@ def subtract(a, b):
 
 def divide(a, b):
     return a/b
+
+
+test = "Hello text"
